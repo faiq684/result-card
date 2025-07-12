@@ -16,7 +16,7 @@ Total marks and percentage
 
 Error handling for incorrect roll numbers
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Python 3
 
 Core concepts: lists, tuples, indexing, input/output, basic math
